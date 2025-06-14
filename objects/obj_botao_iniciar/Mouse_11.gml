@@ -1,0 +1,1 @@
+image_index = 0 // muda a imagem conforme o numero da animação
